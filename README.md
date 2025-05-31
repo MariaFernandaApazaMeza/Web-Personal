@@ -1,153 +1,162 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>María Fernanda Apaza Meza</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mi Espacio Personal</title>
   <style>
     body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #2338AF;
-      color: white;
+      padding: 0;
+      background-color: #f0f4f8;
     }
+
     header {
-      padding: 20px;
-      text-align: left;
+      background-color: #003366;
+      color: white;
+      padding: 1rem 2rem;
+      text-align: center;
     }
-    header h1 {
-      margin: 0;
-      font-weight: bold;
+
+    main {
+      padding: 2rem;
     }
-    header p {
-      margin: 5px 0 0 0;
-    }
-    nav {
-      background-color: #fff;
-      color: #2338AF;
-      padding: 10px;
-    }
-    nav a {
-      color: #fe470a;
-      text-decoration: none;
-      margin-right: 20px;
-      font-weight: bold;
-    }
+
     section {
-      background-color: white;
-      margin: 20px;
-      padding: 20px;
-      border-radius: 10px;
+      margin-bottom: 2rem;
+      background: white;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
-    .section-title {
-      color: #fe470a;
-      font-weight: bold;
-      font-size: 1.5em;
-      margin-bottom: 10px;
+
+    h2 {
+      color: #003366;
+      margin-bottom: 1rem;
     }
-    .divider {
-      border-top: 1px solid #ccc;
-      margin: 10px 0;
-    }
-    .section-text {
-      color: black;
-      font-size: 0.95em;
-    }
-    .grid {
+
+    .cards {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+      gap: 1rem;
     }
+
     .card {
-      background-color: #f0f0f0;
-      padding: 15px;
-      border-radius: 10px;
+      background-color: #e6f0ff;
+      padding: 1rem;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     }
+
     .card-title {
-      color: #fe470a;
       font-weight: bold;
-      font-size: 1.2em;
+      margin-bottom: 0.5rem;
+    }
+
+    a {
+      color: #0056b3;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
+
 <body>
   <header>
-    <h1>María Fernanda Apaza Meza</h1>
-    <p>Estudiante de Administración de Negocios en la UCSP</p>
+    <h1>Mi Espacio Personal</h1>
   </header>
+  <main>
+    <section>
+      <h2>Cursos Universitarios</h2>
+      <div class="cards">
+        <div class="card">
+          <div class="card-title">Economía General</div>
+          <p>Docente: Karlo Alfonso Lam Obregón</p>
+          <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Fundamentos de la Administración</div>
+          <p>Docente: Jackeline Castillo Vera</p>
+          <a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Pensamiento Crítico</div>
+          <p>Docente: Ana Elizabeth Gómez Burns</p>
+          <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Derecho Empresarial</div>
+          <p>Docente: Katherine Lazo Gonzales</p>
+          <a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Matemática Financiera</div>
+          <p>Docente: Gerardo Reaño Velarde</p>
+          <a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Análisis Financiero</div>
+          <p>Docente: Lelia María Rubina Guillen</p>
+          <a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Introducción a las Ciencias de la Computación</div>
+          <p>Docente: Ernesto Cuadros Vargas</p>
+          <a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+      </div>
+    </section>
 
-  <nav>
-    <a href="#sobremi">Sobre mí</a>
-    <a href="#cursos-universitarios">Cursos Universitarios</a>
-    <a href="#cursos-adicionales">Cursos Adicionales</a>
-    <a href="#idiomas">Idiomas</a>
-    <a href="#amigos">Amigos y Compañeros</a>
-    <a href="#contacto">Contacto</a>
-  </nav>
+    <section>
+      <h2>Idiomas</h2>
+      <div class="cards">
+        <div class="card">
+          <div class="card-title">Inglés</div>
+          <p>En el <a href="https://cultural.edu.pe/arequipa/" target="_blank">Centro Cultural Norteamericano</a></p>
+        </div>
+        <div class="card">
+          <div class="card-title">Francés</div>
+          <p>En la <a href="https://afarequipa.org.pe/" target="_blank">Alianza Francesa</a></p>
+        </div>
+      </div>
+    </section>
 
-  <section id="sobremi">
-    <div class="section-title">Sobre mí</div>
-    <div class="divider"></div>
-    <p class="section-text">
-      Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
-      <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
-        Universidad Católica San Pablo
-      </a>. Me describiría como una persona muy sociable por ende trabajo muy bien en equipos.
-    </p>
-  </section>
-
-  <section id="cursos-universitarios">
-    <div class="section-title">Cursos Universitarios</div>
-    <div class="divider"></div>
-    <div class="grid">
-      <div class="card"><div class="card-title">Economía General</div></div>
-      <div class="card"><div class="card-title">Fundamentos de la Administración</div></div>
-      <div class="card"><div class="card-title">Pensamiento Crítico</div></div>
-      <div class="card"><div class="card-title">Derecho Empresarial</div></div>
-      <div class="card"><div class="card-title">Fundamentos del Marketing</div></div>
-      <div class="card"><div class="card-title">Matemática Financiera</div></div>
-      <div class="card"><div class="card-title">Análisis Financiero</div></div>
-      <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación II</div></div>
-    </div>
-  </section>
-
-  <section id="cursos-adicionales">
-    <div class="section-title">Cursos Adicionales</div>
-    <div class="divider"></div>
-    <div class="grid">
-      <div class="card"><div class="card-title">PMBA</div></div>
-      <div class="card"><div class="card-title">Ruta del Progreso</div></div>
-    </div>
-  </section>
-
-  <section id="idiomas">
-    <div class="section-title">Idiomas</div>
-    <div class="divider"></div>
-    <div class="grid">
-      <div class="card"><div class="card-title">Inglés</div></div>
-      <div class="card"><div class="card-title">Francés</div></div>
-    </div>
-  </section>
-
-  <section id="amigos">
-    <div class="section-title">Amigos y Compañeros</div>
-    <div class="divider"></div>
-    <div class="grid">
-      <div class="card"><div class="card-title">Valentina Bedregal</div></div>
-      <div class="card"><div class="card-title">Piero Chahuares</div></div>
-      <div class="card"><div class="card-title">Krislet Juárez</div></div>
-      <div class="card"><div class="card-title">Mariano Mendoza</div></div>
-      <div class="card"><div class="card-title">Sergio Palomino</div></div>
-      <div class="card"><div class="card-title">Vanessa Yesán</div></div>
-    </div>
-  </section>
-
-  <section id="contacto">
-    <div class="section-title">Contacto</div>
-    <div class="divider"></div>
-    <p class="section-text">maria.apaza.meza@uasp.edu.pe</p>
-  </section>
+    <section>
+      <h2>Amigos y Compañeros</h2>
+      <div class="cards">
+        <div class="card">
+          <div class="card-title">Valentina Bedregal</div>
+          <a href="https://www.linkedin.com/in/valentina-bedregal-151770340?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Piero Chahuares</div>
+          <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Krislet Juarez</div>
+          <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Mariano Mendoza</div>
+          <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Sergio Palomino</div>
+          <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+        <div class="card">
+          <div class="card-title">Vanessa Yesán</div>
+          <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">Linkedin</a>
+        </div>
+      </div>
+    </section>
+  </main>
 </body>
-</html>
 
+</html>
 
