@@ -24,6 +24,7 @@
     header, footer {
       text-align: center;
       background-color: #FFB51F;
+      padding: 1rem;
       color: white;
     }
     
