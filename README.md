@@ -6,10 +6,10 @@
   <title>María Fernanda Apaza Meza</title>
   <style>
     :root {
-        --background-light: #FE470A;
+        --background-light: white;
         --text-light: #333;
         --background-dark: #FFB51F;
-        --text-dark: #FE470A  
+        --text-dark: white
     }
     
     body {
