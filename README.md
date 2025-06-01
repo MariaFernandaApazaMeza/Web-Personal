@@ -24,7 +24,6 @@
     header, footer {
       text-align: center;
       background-color: #FFB51F;
-      padding: 1rem;
       color: white;
     }
     
@@ -112,16 +111,34 @@
     <div class="section-title">Cursos Universitarios</div>
     <div class="divider"></div>
     <div class="grid">
-      <div class="card"><div class="card-title">Economía General</div></div>
-      <div class="card"><div class="card-title">Fundamentos de la Administración</div></div>
-      <div class="card"><div class="card-title">Pensamiento Crítico</div></div>
-      <div class="card"><div class="card-title">Derecho Empresarial</div></div>
-      <div class="card"><div class="card-title">Fundamentos del Marketing</div></div>
-      <div class="card"><div class="card-title">Matemática Financiera</div></div>
-      <div class="card"><div class="card-title">Análisis Financiero</div></div>
-      <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación II</div></div>
+      <div class="card"><div class="card-title">Economía General</div>
+      <p>Docente: Karlo Alfonso Lam Obregón</p>
+      <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a>a>
+      </div>
+      <div class="card"><div class="card-title">Fundamentos de la Administración</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Pensamiento Crítico</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Derecho Empresarial</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Fundamentos del Marketing</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Matemática Financiera</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Análisis Financiero</div>
+      
+      </div>
+      <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación</div>
+      
+      </div>
     </div>
   </section>
+  
   <section id="cursos-adicionales">
     <div class="section-title">Cursos Adicionales</div>
     <div class="divider"></div>
@@ -138,6 +155,7 @@
       <div class="card"><div class="card-title">Francés</div></div>
     </div>
   </section>
+  
   <section id="amigos">
     <div class="section-title">Amigos y Compañeros</div>
     <div class="divider"></div>
@@ -149,6 +167,7 @@
       <div class="card"><div class="card-title">Sergio Palomino</div></div>
       <div class="card"><div class="card-title">Vanessa Yesán</div></div>
     </div>
+    
   </section>
   <section id="contacto">
     <div class="section-title">Contacto</div>
