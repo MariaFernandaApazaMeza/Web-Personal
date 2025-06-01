@@ -23,8 +23,8 @@
   
     header, footer {
       text-align: center;
-      background-color: white;
-      color: #FE470A;
+      background-color: FE470A;
+      color: white;
     }
     
     nav {
