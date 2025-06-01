@@ -8,7 +8,7 @@
     :root {
         --background-light: white;
         --text-light: #333;
-        --background-dark: #FFB51F;
+        --background-dark: ##f5dac0;
         --text-dark: white
     }
     
