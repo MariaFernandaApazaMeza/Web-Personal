@@ -5,28 +5,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>María Fernanda Apaza Meza</title>
   <style>
+    :root {
+        --background-light: #FE470A;
+        --text-light: #333;
+        --background-dark: #FFB51F;
+        --text-dark: #FE470A  
+    }
+    
     body {
-      margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #2338AF;
-      color: navy;
-    }
-    header {
-      padding: 20px;
-      text-align: left;
-    }
-    header h1 {
       margin: 0;
-      font-weight: bold;
+      background-color: #FFB51F;
+      color: orange;
+      TRANSITION: 0.3s;
     }
-    header p {
-      margin: 5px 0 0 0;
+  
+    header, footer {
+      text-align: center;
+      background-color: #FE470A;
+      color: white
+      padding: 1rem;
     }
+    
     nav {
-      background-color: #fff;
-      color: #2338AF;
-      padding: 10px;
+      background-color: #FFB51F;
+      padding: 1rem;
+      text-align: center;
     }
+    
     nav a {
       color: #fe470a;
       text-decoration: none;
