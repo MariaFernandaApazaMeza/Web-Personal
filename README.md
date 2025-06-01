@@ -113,7 +113,7 @@
     </ul>
   </section>  <section id="contacto">
     <h2>Contacto</h2>
-    <p>Puedes contactarme a través de mi correo electrónico o redes sociales.</p>
+    <p>Puedes contactarme a través de mi correo electrónico maria.apaza.meza@ucsp.edu.pe</p>
   </section>
 </body>
 </html>
