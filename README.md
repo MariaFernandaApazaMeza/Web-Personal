@@ -21,7 +21,7 @@
       margin: 5px 0 0 0;
     }
     nav {
-      background-color: #fff;
+      background-color: white;
       color: #2338AF;
       padding: 10px;
     }
