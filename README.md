@@ -6,15 +6,6 @@
     body {
       margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #<!DOCTYPE html><html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>María Fernanda Apaza Meza</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
       background-color: #2338AF;
       color: navi;
     }
