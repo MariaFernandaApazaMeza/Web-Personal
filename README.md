@@ -88,7 +88,7 @@
 
   <section id="sobre-mi">
     <h2>Sobre mí</h2>
-    <p style="color: black;">Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a></p>
+    <p style="color: #2338af;">Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la <a href="https://ucsp.edu.pe/" target="_blank">Universidad Católica San Pablo</a></p>
   </section>
 
   <section id="cursos">
