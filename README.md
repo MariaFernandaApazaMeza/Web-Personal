@@ -7,8 +7,8 @@
   <style>
     :root {
         --background-light: white;
-        --margin:2px;
-        --padding: 2px
+        --margin: 2px;
+        --padding: 2px;
         --text-light: #333;
         --background-dark: #FFB51F;
         --text-dark: white
@@ -26,8 +26,9 @@
     header, footer {
       text-align: center;
       background-color: white;
-      color: white
-      padding: 1rem;
+      color: white;
+      margin: 2px;
+      padding: 2px;
     }
     
     nav {
