@@ -27,7 +27,7 @@
     nav a {
       margin: 10px;
       font-weight: bold;
-      color: #f6dbd4;
+      color: #2338AF;
       text-decoration: none;
     }
     section {
