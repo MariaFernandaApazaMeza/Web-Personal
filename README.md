@@ -23,7 +23,7 @@
   
     header, footer {
       text-align: center;
-      background-color: #FE470A;
+      background-color: #FFB51F;
       color: white;
     }
     
