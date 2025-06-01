@@ -1,6 +1,4 @@
-<html lang="es">
-<head>
-<!DOCTYPE html>  
+<head>  
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>María Fernanda Apaza Meza</title>
@@ -11,7 +9,7 @@
       padding: 0;
     }
     header {
-      background-color: #f8f8f8;
+      background-color: #F5F1BB;
       padding: 20px;
       text-align: center;
     }
@@ -20,7 +18,7 @@
       font-weight: bold;
     }
     nav {
-      background-color: #ddd;
+      background-color: #f5f1bb;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -29,7 +27,7 @@
     nav a {
       margin: 10px;
       font-weight: bold;
-      color: black;
+      color: #f5f1bb;
       text-decoration: none;
     }
     section {
