@@ -9,7 +9,7 @@
       padding: 0;
     }
     header {
-      background-color: #f6dbd4;
+      background-color: #f5f1bb;
       padding: 20px;
       text-align: center;
     }
@@ -18,7 +18,7 @@
       font-weight: bold;
     }
     nav {
-      background-color: black;
+      background-color: #2338AF;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -27,7 +27,7 @@
     nav a {
       margin: 10px;
       font-weight: bold;
-      color: #f5f1bb;
+      color: #2338AF;
       text-decoration: none;
     }
     section {
