@@ -18,7 +18,7 @@
       font-weight: bold;
     }
     nav {
-      background-color: #2338AF;
+      background-color: #f5f1bb;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
