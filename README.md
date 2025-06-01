@@ -14,9 +14,10 @@
     
     body {
       font-family: Arial, sans-serif;
-      margin: 0;
       background-color: #FFB51F;
-      color: orange;
+      margin: 0;
+      padding: 0;
+      color: FFE4B3;
       TRANSITION: 0.3s;
     }
   
