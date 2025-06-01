@@ -34,17 +34,24 @@
     }
     
     nav a {
-      color: #fe470a;
+      color: white;
       text-decoration: none;
-      margin-right: 20px;
-      font-weight: bold;
+      margin-right: 0 15px;
     }
+  a {
+    color:#3498db;
+    text-decoration:none;
+  }
+  
     section {
-      background-color: white;
-      margin: 20px;
-      padding: 20px;
-      border-radius: 10px;
+        padding: 2rem;
+        margin: 1rem auto;
+        max-width: 800px;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
+    
     .section-title {
       color: #fe470a;
       font-weight: bold;
@@ -79,7 +86,7 @@
 <body>
   <header>
     <h1>María Fernanda Apaza Meza</h1>
-    <p>Estudiante de Administración de Negocios en la UCSP</p>
+    <h2>Estudiante de Administración de Negocios en la UCSP</h2>
   </header>
   <nav>
     <a href="#sobremi">Sobre mí</a>
@@ -89,15 +96,16 @@
     <a href="#amigos">Amigos y Compañeros</a>
     <a href="#contacto">Contacto</a>
   </nav>
+  
   <section id="sobremi">
     <div class="section-title">Sobre mí</div>
     <div class="divider"></div>
-    <p class="section-text">
+      <p class="section-text">
       Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
       <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
-        Universidad Católica San Pablo
+      Universidad Católica San Pablo
       </a>. Me describiría como una persona muy sociable, por ende, trabajo muy bien en equipos.
-    </p>
+      </p>
   </section>
   <section id="cursos-universitarios">
     <div class="section-title">Cursos Universitarios</div>
