@@ -8,16 +8,16 @@
     :root {
         --background-light: white;
         --text-light: #333;
-        --background-dark: #f5dac0;
+        --background-dark: #FFE4B3;
         --text-dark: white
     }
     
     body {
       font-family: Arial, sans-serif;
-      background-color: #F5DAC0;
+      background-color: #FFE4B3;
       margin: 0;
       padding: 0;
-      color: #F5DAC0;
+      color: #FFE4B3;
       TRANSITION: 0.3s;
     }
   
