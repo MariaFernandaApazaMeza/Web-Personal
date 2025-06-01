@@ -26,9 +26,7 @@
     header, footer {
       text-align: center;
       background-color: white;
-      color: white;
-      margin: 2px;
-      padding: 2px;
+      color: #FE470A;
     }
     
     nav {
