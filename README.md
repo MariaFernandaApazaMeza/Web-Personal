@@ -113,7 +113,7 @@
     <div class="grid">
       <div class="card"><div class="card-title">Economía General</div>
       <p class="section-text">Docente: Karlo Alfonso Lam Obregón</p>
-      <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">Linkedln</a>
+      <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a>
       </p>
       </div>
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
