@@ -8,7 +8,7 @@
     :root {
         --background-light: white;
         --text-light: #333;
-        --background-dark: ##f5dac0;
+        --background-dark: #f5dac0;
         --text-dark: white
     }
     
@@ -17,7 +17,7 @@
       background-color: #F5DAC0;
       margin: 0;
       padding: 0;
-      color: FFE4B3;
+      color: #F5DAC0;
       TRANSITION: 0.3s;
     }
   
