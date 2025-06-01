@@ -9,7 +9,7 @@
       padding: 0;
     }
     header {
-      background-color: #faf1bb;
+      background-color: #2338af;
       padding: 20px;
       text-align: center;
     }
@@ -136,19 +136,44 @@
       <li>Inglés en el <a href="https://cultural.edu.pe/arequipa/" target="_blank">Centro Cultural Norteamericano</a></li>
       <li>Francés en la <a href="https://afarequipa.org.pe/" target="_blank">Alianza Francesa</a></li>
     </ul>
-  </section>
+  </section>  
+<section id="amigos">
+  <div class="section-title">Amigos y Compañeros</div>
+  <div class="divider"></div>
+  <div class="grid">
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank">Valentina Bedregal</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358" target="_blank">Piero Chahuares</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357" target="_blank">Krislet Juarez</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249" target="_blank">Mariano Mendoza</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356" target="_blank">Sergio Palomino</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-title">
+        <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334" target="_blank">Vanessa Yesán</a>
+      </div>
+    </div>
+  </div>
+</section>
 
-  <section id="amigos">
-    <h2>Amigos y Compañeros</h2>
-    <ul>
-      <li>Valentina Bedregal <br><a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank">Linkedin</a></li>
-      <li>Piero Chahuares <br><a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358" target="_blank">Linkedin</a></li>
-      <li>Krislet Juarez <br><a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357" target="_blank">Linkedin</a></li>
-      <li>Mariano Mendoza <br><a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249" target="_blank">Linkedin</a></li>
-      <li>Sergio Palomino <br><a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356" target="_blank">Linkedin</a></li>
-      <li>Vanessa Yesán <br><a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334" target="_blank">Linkedin</a></li>
-    </ul>
-  </section>
 
   <section id="contacto">
     <h2>Contacto</h2>
