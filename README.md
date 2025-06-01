@@ -7,6 +7,8 @@
   <style>
     :root {
         --background-light: white;
+        --margin:2px;
+        --padding: 2px
         --text-light: #333;
         --background-dark: #FFB51F;
         --text-dark: white
