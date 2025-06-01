@@ -142,38 +142,43 @@
   <div class="divider"></div>
   <div class="grid">
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank">Valentina Bedregal</a>
+      <div class="card-title">Valentina Bedregal</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/valentina-bedregal-151770340" target="_blank">LinkedIn</a>
       </div>
     </div>
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358" target="_blank">Piero Chahuares</a>
+      <div class="card-title">Piero Chahuares</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/piero-mathias-chahuares-d%C3%ADaz-390092358" target="_blank">LinkedIn</a>
       </div>
     </div>
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357" target="_blank">Krislet Juarez</a>
+      <div class="card-title">Krislet Juarez</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/krislet-yahaira-juarez-arce-a97570357" target="_blank">LinkedIn</a>
       </div>
     </div>
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249" target="_blank">Mariano Mendoza</a>
+      <div class="card-title">Mariano Mendoza</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/mariano-mendoza-pinto-153a52249" target="_blank">LinkedIn</a>
       </div>
     </div>
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356" target="_blank">Sergio Palomino</a>
+      <div class="card-title">Sergio Palomino</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/palomino-rosado-sergio-gonzalo-a64996356" target="_blank">LinkedIn</a>
       </div>
     </div>
     <div class="card">
-      <div class="card-title">
-        <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334" target="_blank">Vanessa Yesán</a>
+      <div class="card-title">Vanessa Yesán</div>
+      <div class="card-link">
+        <a href="https://www.linkedin.com/in/vanessa-alexandra-yesan-valdivia-8810a5334" target="_blank">LinkedIn</a>
       </div>
     </div>
   </div>
 </section>
-
 
   <section id="contacto">
     <h2>Contacto</h2>
