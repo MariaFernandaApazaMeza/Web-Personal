@@ -98,7 +98,7 @@
       Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
       <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Universidad Católica San Pablo
-      </a>. Me describiría como una persona muy sociable, por ende, trabajo muy bien en equipos.
+      </a>. Me interesa comprender cómo las organizaciones pueden crecer de forma sostenible a través de estrategias bien estructuradas y una gestión eficiente. Durante mi formación, he fortalecido competencias clave como el trabajo colaborativo, la comunicación efectiva y la toma de decisiones. Tengo un especial interés en áreas como el marketing, el análisis financiero y el liderazgo, ya que considero que son fundamentales para generar impacto en el entorno empresarial actual.
       </p>
   </section>
   <section id="cursos-universitarios">
