@@ -11,6 +11,7 @@
         --background-dark: #FFE4B3;
         --text-dark: white
     }
+    
     body {
       font-family: Arial, sans-serif;
       background-color: #FFE4B3;
@@ -19,25 +20,30 @@
       color: #FFE4B3;
       TRANSITION: 0.3s;
     }
+    
     header, footer {
       text-align: center;
       background-color: #FFB51F;
       color: white;
     }
+    
     nav {
       background-color: #FFB51F;
       padding: 1rem;
       text-align: center;
     }
+    
     nav a {
       color: white;
       text-decoration: none;
       margin-right: 0;
     }
+    
   a {
     color:#3498db;
     text-decoration:none;
   }
+  
     section {
         padding: 2rem;
         margin: 1rem auto;
@@ -46,35 +52,42 @@
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
+    
     .section-title {
       color: #fe470a;
       font-weight: bold;
       font-size: 1.5em;
       margin-bottom: 10px;
     }
+    
     .divider {
       border-top: 1px solid #ccc;
       margin: 10px 0;
     }
+    
     .section-text {
       color: black;
       font-size: 0.95em;
     }
+    
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 20px;
     }
+    
     .card {
       background-color: #f0f0f0;
       padding: 15px;
       border-radius: 10px;
     }
+    
     .card-title {
       color: #fe470a;
       font-weight: bold;
       font-size: 1.2em;
     }
+    
   </style>
 </head>
 <body>
