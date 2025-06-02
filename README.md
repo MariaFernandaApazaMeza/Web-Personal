@@ -129,11 +129,11 @@
       <a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Análisis Financiero</div>
-      <p class="section-text">Docente: Lelia Maria Rubina Guillen/p>
+      <p class="section-text">Docente: Lelia Maria Rubina Guillen</p>
       <a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación</div>
-      <p class="section-text">Docente: Ernesto Cuadros Vargas/p>
+      <p class="section-text">Docente: Ernesto Cuadros Vargas</p>
       <a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
     </div>
@@ -152,11 +152,11 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Inglés</div>
-      <p class="section-text">En el /p>
+      <p class="section-text">En el/p>
       <a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a><p/>
       </div>
       <div class="card"><div class="card-title">Francés</div>
-      <p class="section-text">En la /p>
+      <p class="section-text">En la/p>
       <a href="https://afarequipa.org.pe/">Alianza Francesa</a><p/>
       </div>
     </div>
