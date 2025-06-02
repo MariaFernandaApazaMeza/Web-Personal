@@ -116,21 +116,25 @@
       <p class="section-text">Docente: Ana Elizabeth Gómez Burns</p>
       <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
-      </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
-      
+      <p class="section-text">Docente: Katherine Lazo Gonzales</p>
+      <a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Fundamentos del Marketing</div>
-      
+      <p class="section-text">Docente: Sofía Estremadoyro Bejarano</p>
+      <a href="https://www.linkedin.com/in/sofiaestremadoyro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Matemática Financiera</div>
-      
+      <p class="section-text">Docente: Gerardo Velarde Reaño</p>
+      <a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Análisis Financiero</div>
-      
+      <p class="section-text">Docente: Lelia Maria Rubina Guillen/p>
+      <a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación</div>
-      
+      <p class="section-text">Docente: Ernesto Cuadros Vargas/p>
+      <a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
     </div>
   </section>
@@ -147,8 +151,14 @@
     <div class="section-title">Idiomas</div>
     <div class="divider"></div>
     <div class="grid">
-      <div class="card"><div class="card-title">Inglés</div></div>
-      <div class="card"><div class="card-title">Francés</div></div>
+      <div class="card"><div class="card-title">Inglés</div>
+      <p class="section-text">En el /p>
+      <a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a><p/>
+      </div>
+      <div class="card"><div class="card-title">Francés</div>
+      <p class="section-text">En la /p>
+      <a href="https://afarequipa.org.pe/">Alianza Francesa</a><p/>
+      </div>
     </div>
   </section>
   
