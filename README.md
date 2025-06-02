@@ -152,7 +152,7 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Inglés</div>
-      <p class="section-text">En el<a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a><p/>
+      <p class="section-text">En el</p><a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a><p/>
       </div>
       <div class="card"><div class="card-title">Francés</div>
       <p class="section-text">En la</p><a href="https://afarequipa.org.pe/">Alianza Francesa</a><p/>
