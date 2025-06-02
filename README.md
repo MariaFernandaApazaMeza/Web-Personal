@@ -11,7 +11,6 @@
         --background-dark: #FFE4B3;
         --text-dark: white
     }
-    
     body {
       font-family: Arial, sans-serif;
       background-color: #FFE4B3;
@@ -20,19 +19,16 @@
       color: #FFE4B3;
       TRANSITION: 0.3s;
     }
-  
     header, footer {
       text-align: center;
       background-color: #FFB51F;
       color: white;
     }
-    
     nav {
       background-color: #FFB51F;
       padding: 1rem;
       text-align: center;
     }
-    
     nav a {
       color: white;
       text-decoration: none;
@@ -42,7 +38,6 @@
     color:#3498db;
     text-decoration:none;
   }
-  
     section {
         padding: 2rem;
         margin: 1rem auto;
@@ -51,7 +46,6 @@
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
-    
     .section-title {
       color: #fe470a;
       font-weight: bold;
@@ -114,12 +108,14 @@
       <div class="card"><div class="card-title">Economía General</div>
       <p class="section-text">Docente: Karlo Alfonso Lam Obregón</p>
       <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a></p></div>
-      
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
-      
+      <p class="section-text">Docente: Jackeline Castillo Vera</p>
+      <a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Pensamiento Crítico</div>
-      
+      <p class="section-text">Docente: Ana Elizabeth Gómez Burns</p>
+      <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
+      </div>
       </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
       
