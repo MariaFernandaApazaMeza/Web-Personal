@@ -178,7 +178,8 @@
   <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
-    <p class="section-text">📧 maria.apaza.meza@ucsp.edu.pe</p>
+    <p class="section-text">📧 maria.apaza.meza@ucsp.edu.pe</p><a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-apaza-meza-3926aa29b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a>
+    <p/>
   </section>
 </body>
 </html>
