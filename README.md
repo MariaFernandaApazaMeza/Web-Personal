@@ -99,7 +99,7 @@
       <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Universidad Católica San Pablo
       </a>. Me interesa comprender cómo las organizaciones pueden crecer de forma sostenible a través de estrategias bien estructuradas y una gestión eficiente. Durante mi formación, he fortalecido competencias clave como el trabajo colaborativo, la comunicación efectiva y la toma de decisiones. Tengo un especial interés en áreas como el marketing, el análisis financiero y el liderazgo, ya que considero que son fundamentales para generar impacto en el entorno empresarial actual.
-      <p/>
+      </p>
   </section>
   <section id="cursos-universitarios">
     <div class="section-title">Cursos Universitarios</div>
@@ -107,33 +107,33 @@
     <div class="grid">
       <div class="card"><div class="card-title">Economía General</div>
       <p class="section-text">Docente: Karlo Alfonso Lam Obregón<p/>
-      <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/></div>
+      <a href="https://www.linkedin.com/in/karlolam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a></p></div>
       <div class="card"><div class="card-title">Fundamentos de la Administración</div>
-      <p class="section-text">Docente: Jackeline Castillo Vera<p/>
+      <p class="section-text">Docente: Jackeline Castillo Vera</p>
       <a href="https://www.linkedin.com/in/jackelinecv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Pensamiento Crítico</div>
-      <p class="section-text">Docente: Ana Elizabeth Gómez Burns<p/>
+      <p class="section-text">Docente: Ana Elizabeth Gómez Burns</p>
       <a href="https://www.linkedin.com/in/ana-elizabeth-g%C3%B3mez-burns-4502263b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Derecho Empresarial</div>
-      <p class="section-text">Docente: Katherine Lazo Gonzales<p/>
+      <p class="section-text">Docente: Katherine Lazo Gonzales</p>
       <a href="https://www.linkedin.com/in/katherinelazogonzales?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Fundamentos del Marketing</div>
-      <p class="section-text">Docente: Sofía Estremadoyro Bejarano<p/>
+      <p class="section-text">Docente: Sofía Estremadoyro Bejarano</p>
       <a href="https://www.linkedin.com/in/sofiaestremadoyro?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Matemática Financiera</div>
-      <p class="section-text">Docente: Gerardo Velarde Reaño<p/>
+      <p class="section-text">Docente: Gerardo Velarde Reaño</p>
       <a href="https://www.linkedin.com/in/gerardorea%C3%B1o?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Análisis Financiero</div>
-      <p class="section-text">Docente: Lelia Maria Rubina Guillen<p/>
+      <p class="section-text">Docente: Lelia Maria Rubina Guillen</p>
       <a href="https://www.linkedin.com/in/lelia-rubina-27939889?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
       <div class="card"><div class="card-title">Introducción a las Ciencias de la Computación</div>
-      <p class="section-text">Docente: Ernesto Cuadros Vargas<p/>
+      <p class="section-text">Docente: Ernesto Cuadros Vargas</p>
       <a href="https://www.linkedin.com/in/ecuadrosv?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Linkedln</a><p/>
       </div>
     </div>
@@ -152,7 +152,7 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Inglés</div>
-        <p class="section-text">El dominio del inglés representa una herramienta fundamental en el ámbito académico y profesional, ya que permite acceder a información actualizada, literatura especializada y oportunidades internacionales. Es un idioma clave para los negocios y la gestión empresarial.<p/><a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a>
+        <p class="section-text">El dominio del inglés representa una herramienta fundamental en el ámbito académico y profesional, ya que permite acceder a información actualizada, literatura especializada y oportunidades internacionales. Es un idioma clave para los negocios y la gestión empresarial.</p><a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a>
         <p/>
       </div>
       <div class="card"><div class="card-title">Francés</div>
@@ -178,7 +178,7 @@
   <section id="contacto">
     <div class="section-title">Contacto</div>
     <div class="divider"></div>
-    <a href="maria.apaza.meza@ucsp.edu.pe">📧 Gmail</a></p>
+    <a href="maria.apaza.meza@ucsp.edu.pe">📧 Gmail</a><p/>
     <a href="https://www.linkedin.com/in/mar%C3%ADa-fernanda-apaza-meza-3926aa29b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">🔹Linkedln</a>
     <p/>
   </section>
