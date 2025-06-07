@@ -170,7 +170,18 @@
       </a>, y ofreció talleres, charlas y dinámicas orientadas a enseñar conceptos financieros de forma accesible y entretenida para todas las edades. Esta experiencia fortaleció mi compromiso con la inclusión financiera y el desarrollo comunitario.
       </p>
       </div>
-      <div class="card"><div class="card-title">PMI</div></div>
+      
+      <div class="card"><div class="card-title">PMI</div>
+      <p class="section-text">
+      Mi primera participación en el PMI (Project Management Institute) marcó el inicio de un recorrido muy enriquecedor dentro del mundo de la gestión de proyectos. En este evento, conocí a dos referentes fundamentales: 
+      <a href="https://www.linkedin.com/in/eduardolanao/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      Eduardo Lanao,
+      </a>, con quien posteriormente profundicé en temas de minería sostenible, y <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      Eddy Morris
+      </a>, reconocido por su enfoque en transformación digital y educación ejecutiva. Este primer contacto no solo amplió mi red profesional, sino que también despertó un gran interés por seguir aprendiendo desde distintas perspectivas del desarrollo empresarial y tecnológico. 
+      </p>
+      </div>
+      
     </div>
   </section>
   <section id="idiomas">
