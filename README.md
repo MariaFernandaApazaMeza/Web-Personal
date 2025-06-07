@@ -158,7 +158,7 @@
     <div class="grid">
       <div class="card"><div class="card-title">Ruta del progreso</div>
       <p class="section-text">
-      Formé parte del equipo voluntario de La Ruta del Progreso, una feria itinerante enfocada en promover la educación financiera en distintas regiones del país. En esta ocasión, la actividad se llevó a cabo en la Plaza de Yanahuara, Arequipa. La feria contó con la participación de instituciones como 
+      Participé como voluntaria en La Ruta del Progreso, una feria itinerante realizada en la Plaza de Yanahuara, Arequipa, que promueve la educación financiera a través de talleres, charlas y dinámicas para todas las edades. El evento contó con la participación de 
       <a href="https://www.viabcp.com/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       BCP
       </a>, <a href="https://www.mibanco.com.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
@@ -167,18 +167,18 @@
       PRIMA
       </a> y <a href="https://www.pacifico.com.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       PACÍFICO SEGUROS
-      </a>, y ofreció talleres, charlas y dinámicas orientadas a enseñar conceptos financieros de forma accesible y entretenida para todas las edades. Esta experiencia fortaleció mi compromiso con la inclusión financiera y el desarrollo comunitario.
+      </a>. Esta experiencia reforzó mi compromiso con la inclusión financiera y el desarrollo comunitario.
       </p>
       </div>
       
       <div class="card"><div class="card-title">PMI</div>
       <p class="section-text">
-      Mi primera participación en el PMI (Project Management Institute) marcó el inicio de un recorrido muy enriquecedor dentro del mundo de la gestión de proyectos. En este evento, conocí a dos referentes fundamentales: 
+      Mi participación en el PMI (Project Management Institute) marcó el inicio de un valioso recorrido profesional. Allí conocí a 
       <a href="https://www.linkedin.com/in/eduardolanao/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eduardo Lanao,
-      </a>, con quien posteriormente profundicé en temas de minería sostenible, y <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      </a>con quien profundicé en temas de minería sostenible, y a <a href="https://www.linkedin.com/in/eddy-morris-ph-d-64a73940/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Eddy Morris
-      </a>, reconocido por su enfoque en transformación digital y educación ejecutiva. Este primer contacto no solo amplió mi red profesional, sino que también despertó un gran interés por seguir aprendiendo desde distintas perspectivas del desarrollo empresarial y tecnológico. 
+      </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
       
