@@ -181,7 +181,6 @@
       </a>, referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
       </div>
-      
     </div>
   </section>
   <section id="idiomas">
@@ -189,8 +188,12 @@
     <div class="divider"></div>
     <div class="grid">
       <div class="card"><div class="card-title">Inglés</div>
-        <p class="section-text">El dominio del inglés representa una herramienta fundamental en el ámbito académico y profesional, ya que permite acceder a información actualizada, literatura especializada y oportunidades internacionales. Es un idioma clave para los negocios y la gestión empresarial.</p><a href="https://cultural.edu.pe/arequipa/">Centro Cultural Norteamericano</a>
-        <p/>
+        <p class="section-text">
+      El
+      <a href="https://cultural.edu.pe/arequipa/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
+      Centro Cultural Peruano Norteamericano
+      </a> ha sido un espacio clave para fortalecer mi comprensión del inglés aplicado a los negocios. En un entorno donde los tratados comerciales, investigaciones de mercado y tendencias globales se difunden primero en inglés, dominar este idioma es una ventaja estratégica para mi desarrollo profesional y visión internacional.
+      </p>
       </div>
       <div class="card"><div class="card-title">Francés</div>
         <p class="section-text">El conocimiento del francés amplía el alcance profesional al abrir puertas en mercados internacionales, especialmente en países francófonos. Además, fortalece el perfil académico y cultural, lo que resulta valioso en contextos empresariales globalizados.</p><a href="https://afarequipa.org.pe/">Alianza Francesa</a>
